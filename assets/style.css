@@ -123,4 +123,13 @@ footer p {
     .cartao__conteudo p {
         font-size: 3.8vw;
     }
+
+    footer p {
+        font-size: 2vw;
+        margin-top: 0.8vw;
+    }
+
+    footer {
+        height: 1.5rem;
+    }
 }
